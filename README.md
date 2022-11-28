@@ -1,6 +1,6 @@
 # Climate_change_Tensorflow_RNN
 
-As part of the requirements for the completion of our Moringa School Data Science Course, We have data regarding climate change and its effects including natural disaster. We will analyze this data and attempt to classify and identify trends
+As part of the requirements for the completion of our Moringa School Data Science Course, We have data regarding climate change and its effects including natural disasters. We will analyze this data and attempt to classify and identify trends
 
 
 <!-- ABOUT THE PROJECT -->
