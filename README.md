@@ -46,8 +46,11 @@ Data set description
 Each tweet is labelled as one of the following classes:
 
 a) 2(News): the tweet links to factual news about climate change
+
 b) 1(Pro): the tweet supports the belief of man-made climate change
+
 c) 0(Neutral): the tweet neither supports nor refutes the belief of man-made climate change
+
 d) -1(Anti): the tweet does not believe in man-made climate change
 
 We came accross some very interesting facts.
