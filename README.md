@@ -16,7 +16,7 @@ A changing climate is also affecting other aspects of crop production such as in
 
 Problem Statement
 
-Twitter being one of the most influential ways of passing information and analysing trends on various issues and in our case climate change, we chose to analyse tweets data to predict whether a tweet is pro-climate change, anti-climate change , from a news segment or just a neutral part with not take in climate change issues.
+Twitter being one of the most influential ways of passing information and analysing trends on various issues and in our case climate change, we chose to analyse tweets data to predict whether a tweet is pro-climate change, anti-climate change , from a news segment or just a neutral part with no take in climate change issues.
 
 Metric for success
 
